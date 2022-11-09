@@ -1,3 +1,10 @@
+A Gesture-based Tool for Sterile Browsing of Radiology Images
 
+IBM-Project-3941-1658673241
 
-[A Gesture.docx](https://github.com/IBM-EPBL/IBM-Project-3941-1658673241/files/9967725/A.Gesture.docx)
+Swathi S (Team Leader)
+Shanmuga Priyaa B
+Andhi B
+Manju S
+Chennareddy Sushmitha Reddy
+
